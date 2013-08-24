@@ -1,0 +1,13 @@
+{
+  "name": "Specle Chrome",
+  "permissions": [
+    "pageCapture"
+  ],
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Specle Chrome provides a fast way to access Specle jobs.",
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_icon": "assets/images/specle-icon.png"
+  }
+}
